@@ -1,0 +1,48 @@
+---
+title: "The Authority"
+about:
+  template: trestles
+  image: logo.jpg
+  image-width: 10em
+  image-shape: round
+  links:
+  - icon: instagram
+    text: Instagram
+    href: https://instagram.com/imedkrisna
+  - icon: youtube
+    text: Youtube
+    href: https://youtube.com/imedkrisna
+#  - icon: linkedin
+#    text: Linkedin
+#    href: https://linkedin.com/in/imedkrisna
+#  - icon: pencil-square
+#    text: blog
+#   href: https://www.krisna.or.id/
+#  - icon: envelope-open
+#    text: email
+#    href: mailto:krisna.gupta@outlook.com
+#  - icon: file-earmark-person
+#    text: CV
+#    href: https://www.krisna.or.id/en/#CV
+---
+
+We are an amazing Indonesia-based band!
+
+## Personnel
+
+::: {layout-ncol=2}
+![Aldi: Guitar](aldi.jpg)
+
+![Andi: Drum](andi.jpg)
+
+![Arie: Vocal, Keyboard](logo.jpg)
+
+![Dhany: Guitar, Keyboard](dhany.jpg)
+
+![[Imed: Vocal](https://imedkrisna.github.io/)](imed.jpg)
+
+
+
+
+![Rully: Bass](rully.jpg)
+:::

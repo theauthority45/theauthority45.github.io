@@ -1,2 +1,2 @@
-# theauthority45.github.io
-Website for the band
+# theauthority
+ Please visit theauthority45.github.io
