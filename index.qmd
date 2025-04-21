@@ -28,6 +28,12 @@ about:
 
 We are an amazing Indonesia-based band!
 
+## Our next gig!
+
+Japan Fiesta. Saturday May 10th 2025 at Tangcity Mall. Don't miss it!
+
+![](jgig.jpg)
+
 ## Personnel
 
 ::: {layout-ncol=2}
@@ -35,7 +41,7 @@ We are an amazing Indonesia-based band!
 
 ![Andi: Drum](andi.jpg)
 
-![Arie: Vocal, Keyboard](logo.jpg)
+![Arie: Vocal, Keyboard](arie.jpg)
 
 ![Dhany: Guitar, Keyboard](dhany.jpg)
 
