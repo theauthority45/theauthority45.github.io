@@ -8,10 +8,10 @@ about:
   links:
   - icon: instagram
     text: Instagram
-    href: https://instagram.com/imedkrisna
+    href: https://www.instagram.com/authority.45/
   - icon: youtube
     text: Youtube
-    href: https://youtube.com/imedkrisna
+    href: https://www.youtube.com/@theauthority45
 #  - icon: linkedin
 #    text: Linkedin
 #    href: https://linkedin.com/in/imedkrisna
